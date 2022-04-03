@@ -1,6 +1,6 @@
 # CS456 Algorithms Design and Analysis 
 ## Homework 1 
-**Repository for this assignment can be found at **
+**Repository for this assignment can be found at https://github.com/lorrainemakuyana/algorithms-assignment-01**
 
 ### Question 1 
 **Assume that you are given a sorted array of m integers which has been rotated for an unknown number of times. Give an O(log m) time algorithm which finds an element in the array. You can assume that the original array was sorted in increasing order.**
@@ -8,7 +8,9 @@
 **Program Name** 
 * RotatedBS.java 
 
-**How to run the program** 
+**How to run the program**
+\
+ 
 The program can be run in either file or interactive mode. If none of these modes is specified, the program will return with an "Unknown run mode" and tell the user that the run mode was not specified in the program, and exits. If an unexpected mode is passed, the program outputs this and exits.
 \
 
@@ -24,6 +26,8 @@ Run the program by first compiling the program and then running it. Follow the s
 * StringMatch.java 
 
 **How to run the program** 
+\
+
 The program can be run in either file or interactive mode. If none of these modes is specified, the program will return with an "Unknown run mode" and tell the user that the run mode was not specified in the program, and exits. If an unexpected mode is passed, the program outputs this and exits.
 \
 
