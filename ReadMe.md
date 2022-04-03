@@ -9,10 +9,10 @@
 * RotatedBS.java 
 
 **How to run the program**
-\
+
  
 The program can be run in either file or interactive mode. If none of these modes is specified, the program will return with an "Unknown run mode" and tell the user that the run mode was not specified in the program, and exits. If an unexpected mode is passed, the program outputs this and exits.
-\
+
 
 Run the program by first compiling the program and then running it. Follow the steps below. 
 * <code>javac RotatedBS.java</code> to compile the program 
@@ -26,10 +26,10 @@ Run the program by first compiling the program and then running it. Follow the s
 * StringMatch.java 
 
 **How to run the program** 
-\
+
 
 The program can be run in either file or interactive mode. If none of these modes is specified, the program will return with an "Unknown run mode" and tell the user that the run mode was not specified in the program, and exits. If an unexpected mode is passed, the program outputs this and exits.
-\
+
 
 Run the program by first compiling the program and then running it. Follow the steps below. 
 * <code>javac StringMatch.java</code> to compile the program 
