@@ -65,7 +65,14 @@ public class RotatedBS {
     }
 
     public static void fileBS() throws IOException {
+
         File inputFile = new File("input.txt"); 
+        
+        if ( !(inputFile.exists()) ) {
+            System.out.println("\nInput file does not exist. Ensure your txt file input is named \'input.txt\' \n")
+            return
+        }
+
         Scanner fileReader = new Scanner(inputFile); 
 
         // Create output file 

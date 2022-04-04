@@ -49,6 +49,12 @@ public class StringMatch {
     public static void fileStrMatch() throws IOException {
         
         File inputFile = new File("input.txt"); 
+
+        if ( !(inputFile.exists()) ) {
+            System.out.println("\nInput file does not exist. Ensure your txt file input is named \'input.txt\' \n ")
+            return
+        }
+
         Scanner fileReader = new Scanner(inputFile);
 
         File outputFile = new File("output.txt"); 
